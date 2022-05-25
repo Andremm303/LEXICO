@@ -1,0 +1,20 @@
+$123.123$ $abcd$
+$1E10$
+[[ $abcd$ ]]
+$adlkd$
+++
++ $43$ +
+>= <=
+::
+:{}
+:{ $sdfs$ }
+number 
+list
+logical 
+do while 
+<-<
++ -
+< >
+=
+<-
+

@@ -1,0 +1,6 @@
+{
+variables :: { $x$ $y$ $z$ number 
+            $a$ $b$ $c$ real }
+while ( $x$  > $y$ ) beginning 
+$x$ :=: $10$ ;
+finishing ;
